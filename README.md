@@ -1,14 +1,15 @@
 # Group5_Classwork1
 Introduction of Big Data Group E: Group 5 Python Assignment 2025-06-26
 ## Group Members
-| Student ID | Student Names              |     |     |
-| :--------- | :------------------------- | :-- | :-- |
-| `26981`    | `Muheto Jess Rutayisire`   |     |     |
-| `28100`    | `ISKABARI Iba`             |     |     |
-| `29201`    | `Umuhoza Honorine Melissa` |     |     |
-| `26425`    | `IRAKOZE Grace Vanny`      |     |     |
-| `28858`    | `IRAGI ND'IHIRWA G'va`     |     |     |
-| `21035`    | `Pamilani Issa Enalutwa`   |     |     |
+| Student ID | Student Names              | 
+| :--------- | :------------------------- | 
+| 26481    | Muheto Jess Rutayisire   |     
+| 28040    | Akarabo Ines             |     
+| 27405    | Sangwa Kamanzi Melissa |     
+| 26425    | IRAKOZE Grace Vanny      |   
+| 26878    | Isaro Muhirwa Ola     |     
+| 26835    | Familoni Isaac Enioluwa   | 
+
 ## Questions Answered
 
 **Question II: Check Palindrome**
