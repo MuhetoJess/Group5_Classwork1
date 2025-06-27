@@ -1,6 +1,6 @@
 #Python Group Assignment
 
-#Answer to Question
+#Answer to Question2
 def check_palindrome(text):
     if text == text[::-1]:
         print("Yes, it is a palindrome")
